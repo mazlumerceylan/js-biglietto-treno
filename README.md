@@ -8,3 +8,11 @@ Biglietto Treno
 5- applic sconto 40% per over 65
 6- calcola prezzo biglietto
 7- output prezzo biglietto
+
+
+====
+
+
+8- crea e definisci gli input 
+9- crea i bottoni ( bottone "cancella" funzione solo con il bonus)
+10- stampa biglietto su schermo

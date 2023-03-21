@@ -26,7 +26,7 @@ price = price - discount;
 discount = (Math.round(price * 100) / 100 );
 
 const message = `
-  Il prezzo del biglietto e$(discount);
+  Il prezzo del biglietto e $(discount)
 `
 
 document.getElementById('discount').innerHTML = discount;
